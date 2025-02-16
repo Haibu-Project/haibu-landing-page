@@ -28,9 +28,9 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <header className="mb-[10rem]">
+        {/* <header className="mb-[10rem]">
           <NavBarComponent />
-        </header>
+        </header> */}
         {children}
       </body>
     </html>

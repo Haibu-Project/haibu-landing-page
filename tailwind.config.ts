@@ -10,7 +10,8 @@ export default {
   theme: {
   	extend: {
   		colors: {
-			haibu_purple: "#554DEA",
+  			haibu_purple: '#554DEA',
+			main: "#221F5C",
   			background: 'var(--background)',
   			foreground: 'var(--foreground)'
   		},
