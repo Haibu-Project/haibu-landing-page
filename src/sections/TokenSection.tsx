@@ -60,21 +60,23 @@ export default function TokenSection() {
                 >
                     <h2 className="text-xl text-[#F6850A] font-[900] mb-6">Click the Coin to Win Hai Tokens</h2>
                     <PixelCard>
-                        <TiltedCard
-                            imageSrc="/haibu-logos/HaiToken.svg"
-                            containerHeight="320px"
-                            containerWidth="320px"
-                            imageHeight="300px"
-                            imageWidth="300px"
-                            rotateAmplitude={10}
-                            scaleOnHover={1.15}
-                            showMobileWarning={false}
-                            overlayContent={
-                                <div>
-                                    <p className="text-yellow-500 text-lg font-mono tracking-widest">Hai Token</p>
-                                </div>
-                            }
-                        />
+                        <a href="https://click.haibusocial.com/auth/register" target="_blank" rel="noopener noreferrer">
+                            <TiltedCard
+                                imageSrc="/haibu-logos/HaiToken.svg"
+                                containerHeight="320px"
+                                containerWidth="320px"
+                                imageHeight="300px"
+                                imageWidth="300px"
+                                rotateAmplitude={10}
+                                scaleOnHover={1.15}
+                                showMobileWarning={false}
+                                overlayContent={
+                                    <div>
+                                        <p className="text-yellow-500 text-lg font-mono tracking-widest">Join Haibu</p>
+                                    </div>
+                                }
+                            />
+                        </a>
                     </PixelCard>
                 </motion.div>
             </div>

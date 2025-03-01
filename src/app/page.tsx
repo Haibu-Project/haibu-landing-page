@@ -70,13 +70,14 @@ export default function LandingPage() {
                             animate="visible"
                             transition={{ delay: 0.5 }}
                         >
-                            <Link href="/register">
+                            <a href="https://app.haibusocial.com/auth/register" target="_blank" rel="noopener noreferrer">
                                 <ShimmerButton className="shadow-2xl">
                                     <span className="whitespace-pre-wrap text-center text-sm font-medium leading-none tracking-tight text-white dark:from-white dark:to-slate-900/10 lg:text-lg">
                                         Join Haibu and shape the future!
                                     </span>
                                 </ShimmerButton>
-                            </Link>
+                            </a>
+
                         </motion.div>
                         <div className="absolute top-36 left-1/2 transform -translate-x-1/2 pointer-events-none">
                             <InfiniteBeeAllFrames width={350} height={100} />
