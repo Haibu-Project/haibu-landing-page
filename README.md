@@ -15,6 +15,8 @@ Haibu is a **community-driven decentralized social network** built on **Celestia
 - **💻 Open-Source Development:** Contribute, solve issues, and get rewarded.
 - **💬 Social Interactions:** Post "Hai" (similar to tweets), like, comment, and share content.
 - **🔒 Blockchain-Powered Security:** Built on **Celestia** & **Chopin Framework** for transparency and data integrity.
+- $HAI $HAI $HAI
+
 
 ---
 
