@@ -23,6 +23,9 @@ Haibu is a **community-driven decentralized social network** built on **Celestia
 - **Frontend:** Next.js (React, TailwindCSS, Chopin-Framework)
 ---
 
+test
+
+
 ## 🌐 Haibu Landing Page
 
 The **Landing Page** of Haibu serves as the project's official introduction, showcasing its mission, vision, and key functionalities.
